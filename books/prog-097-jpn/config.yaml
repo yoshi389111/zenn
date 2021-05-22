@@ -1,0 +1,17 @@
+title: "日本人プログラマによる知っておくべき 10 のこと"
+summary: "通称「きのこ本」とよばれるオライリー発行の書籍群があります。\nこれらの書籍は CC-by-3.0 などでライセンスされており、著者名を明記すればコピー/配布や改変が自由にできます（商用利用も可能）。\nそこで、勝手に電子書籍化（非公式版）を作っています。\n詳細は https://github.com/yoshi389111/kinokobooks まで"
+topics: ["プログラマ", "きのこ本"]
+published: true
+price: 0
+toc_depth: 1
+chapters:
+  - prog-101
+  - prog-102
+  - prog-103
+  - prog-104
+  - prog-105
+  - prog-106
+  - prog-107
+  - prog-108
+  - prog-109
+  - prog-110
