@@ -1,0 +1,18 @@
+title: "日本人アーキテクトによる知っておくべき 11 のこと"
+summary: "通称「きのこ本」とよばれるオライリー発行の書籍群があります。\nこれらの書籍は CC-by-3.0 などでライセンスされており、著者名を明記すればコピー/配布や改変が自由にできます（商用利用も可能）。\nそこで、勝手に電子書籍化（非公式版）を作っています。\n詳細は https://github.com/yoshi389111/kinokobooks まで"
+topics: ["アーキテクト", "きのこ本"]
+published: true
+price: 0
+toc_depth: 1
+chapters:
+  - soft-101
+  - soft-102
+  - soft-103
+  - soft-104
+  - soft-105
+  - soft-106
+  - soft-107
+  - soft-108
+  - soft-109
+  - soft-110
+  - soft-111
